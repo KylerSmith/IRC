@@ -1,1 +1,1 @@
-# IRC
+# Internet Relay Chat
