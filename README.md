@@ -1,8 +1,10 @@
 # Internet Relay Chat
 
-- Run from command line, gcc server.c and client.c, run server.c (specifying which port), followed by client.c (also specifying which port).
+- GUI implement in java, back-end in C.
+- Compile server.c and client.c and run each respectively.
 
 ## TODO:
-[ ] ALOT.
+[ ] Java GUI
+[ ] C chat
 
 Please feel free to contribute!
